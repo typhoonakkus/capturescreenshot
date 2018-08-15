@@ -1,5 +1,5 @@
 # capturescreenshot
-You can use this code on Selenium for take screenshots
+You can use this code on Selenium WebDriver for take screenshots
 
 ************************************************
 
